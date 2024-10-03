@@ -46,4 +46,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reddy0603&" alt="reddy0603" /></p>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" style="position:relative, botton:'100px'" height="150" src="https://i.imgflip.com/65efzo.gif"  />
