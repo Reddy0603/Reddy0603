@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashoka M</h1>
-<h3 align="center">A passionate FrontEnd developer from India</h3>
+<h3 align="center">A passionate Java full stack developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reddy0603" alt="reddy0603" /></a> </p>
 
@@ -9,7 +9,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/ashok_m_9e82abe08f09c1b22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ashok_m_9e82abe08f09c1b22" height="30" width="40" /></a>
+<a href="https://twitter.com/ashokre07514557" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashokre07514557" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ashok-m-307984229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashok-m-307984229" height="30" width="40" /></a>
+<a href="https://instagram.com/just_call._.me_reddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="just_call._.me_reddy" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ashokashokm2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ashokashokm2001" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,4 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reddy0603&show_icons=true&locale=en" alt="reddy0603" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reddy0603&" alt="reddy0603" /></p>
-
