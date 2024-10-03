@@ -2,6 +2,8 @@
 
 ###
 
+<h4>🎓 Hi, Ashoka M, a proficient Computer Science Engineering graduate, is making waves as a skilled Front-End Developer. With a passion for crafting seamless user experiences, excels in turning design concepts into reality through innovative coding solutions. Thriving in dynamic environments.</h4>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -39,7 +41,7 @@
 
 <h1 align="center">Hi 👋, I'm Ashoka M</h1>
 <h3 align="center">A passionate Java full stack developer from India</h3>
-<h4>🎓 Hi, Ashoka M, a proficient Computer Science Engineering graduate, is making waves as a skilled Front-End Developer. With a passion for crafting seamless user experiences, excels in turning design concepts into reality through innovative coding solutions. Thriving in dynamic environments.</h4>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reddy0603&label=Profile%20views&color=0e75b6&style=flat" alt="reddy0603" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reddy0603" alt="reddy0603" /></a> </p>
