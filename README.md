@@ -11,10 +11,7 @@
 
 <h4>🎓 Hi, Ashoka M, a proficient Computer Science Engineering graduate, is making waves as a skilled Front-End Developer. With a passion for crafting seamless user experiences, excels in turning design concepts into reality through innovative coding solutions. Thriving in dynamic environments.</h4>
 
-
 <br clear="both">
-
-
 <h1 align="center">Hi 👋, I'm Ashoka M</h1>
 <h3 align="center">A passionate Java full stack developer from India</h3>
 
@@ -44,6 +41,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reddy0603&show_icons=true&locale=en" alt="reddy0603" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reddy0603&" alt="reddy0603" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reddy0603&" alt="reddy0603" /> <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /></p>
 
-<img align="right" style="position:relative, botton:'500px'" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
